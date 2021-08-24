@@ -1,3 +1,3 @@
 public class Figure {
-    int size;
+    double size;
 }
